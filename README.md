@@ -95,8 +95,8 @@ src/
 ```bash
 
 # 1. Clone the repo
-git  clone  https://github.com/your-username/water-intake-tracker.git
-cd  water-intake-tracker
+git  clone  https://github.com/your-username/HydroTrack.git
+cd  HydroTrack
 
 # 2. Install dependencies
 npm  install
